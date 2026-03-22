@@ -1,7 +1,5 @@
 # 📂 데이터 전처리: 결측값(Missing Value)의 이해
 
-<hr>
-
 ## 1. 결측값이란?
     * 데이터 세트에서 알려지지 않았거나, 수집되지 않았거나, 잘못 입력된 값
     * 단순히 비어있는 칸이 아니라, 데이터 수집 과정에서의 '단절'을 뜻함.
@@ -45,3 +43,11 @@
 3. **가치 보존 전략:**
   * **대치:** 평균, 중앙값 등을 통해 최대한 정보를 보존하며 빈칸을 채운다.
   * **별도 범주화:** 미응답 자체를 하나의 중요한 특성으로 간주하여 분석에 포함한다.
+
+<br>
+
+---
+
+## 📚 참고 문헌
+* [IBM Docs: 결측값 처리 가이드 (SPSS Modeler)](https://www.ibm.com/docs/ko/spss-modeler/saas?topic=guide-handling-missing-values)
+* [HODUSTAT 블로그: 통계학에서의 결측값 이해와 종류](https://hodustat.tistory.com/20)
